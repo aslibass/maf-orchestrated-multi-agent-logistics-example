@@ -1,4 +1,4 @@
-# Primary Connect Order Tracking Demo
+# 3PL Order Tracking Demo
 
 A demonstration application that searches Gmail for order update emails and cross-references them with CSV order data, using Azure OpenAI agents to provide comprehensive order status information.
 
